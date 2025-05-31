@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e5507120-a5fb-4c65-acf5-9b33e0da8e55)
 # DroneCenter.ai
 
 **Autonomous Intelligence for the Skies**  
